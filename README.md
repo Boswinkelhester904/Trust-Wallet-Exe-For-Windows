@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.iconify.design/simple-icons:trustwallet.svg?width=100&height=100" alt="Trust Wallet Icon">
+  <img src="https://api.iconify.design/mdi:wallet.svg?width=100&height=100" alt="Wallet Icon">
 </p>
 
 <h1 align="center">🔒 Trust Wallet Exe For Windows</h1>
